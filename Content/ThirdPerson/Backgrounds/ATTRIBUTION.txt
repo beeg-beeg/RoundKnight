@@ -1,0 +1,9 @@
+Free Pixel Art Nature Platformer Tileset by Moon Empire
+Source: https://moonempire.itch.io/free-pixel-art-nature-platformer-tileset
+License: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Image: store/3-bg-full.png from free_nature_tileset_by_TRA.
+Changes: saturation 1.15; mirrored horizontal repetition; UV border inset; brightness 0.65.
+
+Previous background: Mountain at Dusk Background by ansimuz, CC0.
+https://opengameart.org/content/mountain-at-dusk-background
