@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+.DS_Store
+Content/.DS_Store
+Content/__ExternalActors__/.DS_Store
+Content/__ExternalObjects__/.DS_Store
+Content/Input/.DS_Store
+Content/ThirdPerson/.DS_Store
