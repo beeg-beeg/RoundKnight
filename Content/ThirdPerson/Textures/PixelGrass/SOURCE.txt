@@ -1,0 +1,8 @@
+16x16 Grass Textures by SpringySpringo
+Source: https://opengameart.org/content/16x16-grass-textures
+License selected: CC0.
+Original files: grasstop_1.png, dirt_13.png, grass_47.png.
+Imported textures: T_PixelGrass_Top, T_PixelDirt, T_PixelGrass_Side.
+M_PixelGrass_World: nearest filtering, 128 cm world-space tile size.
+Applied to seven green Box platforms in Lvl_ThirdPerson.
+Original material copies: /Game/ThirdPerson/Materials/Backups_PrePixelGrass/.
